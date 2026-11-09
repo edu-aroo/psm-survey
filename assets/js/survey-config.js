@@ -32,7 +32,7 @@ const SURVEY = {
     "organizer": "Fondation pour les Aires Protégées et la Biodiversité de Madagascar (FAPBM), en collaboration avec l’Institut Halieutique et des Sciences Marines (IH.SM) – Université de Toliara",
     "contactName": "Nomenisoa Aina Le Don",
     "contactEmail": "ainaledon.nomenisoa@gmail.com",
-    "deadline": "15 Novembre",
+    "deadline": "20 Novembre 2026",
     "estimatedTime": "30 à 45 min",
     // URL de l'application Web Apps Script (README, étape 2). Vide = envoi désactivé.
     "appsScriptUrl": "https://script.google.com/macros/s/AKfycbzP677mqaml4tsHx6H3MPJtF9-Ajn-B8roqgyp7Yj-5YkK9hSTdmluvCqutw-8m76PUrA/exec",
